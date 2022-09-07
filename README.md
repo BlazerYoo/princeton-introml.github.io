@@ -3,7 +3,7 @@ layout: home
 title: Home
 nav_exclude: false
 nav_order: 1
-last_modified_date: 'now'
+last_modified_date: Sep 7, 2022
 permalink: index.html
 seo:
   type: Course
