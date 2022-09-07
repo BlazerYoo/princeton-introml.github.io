@@ -18,6 +18,8 @@ seo:
 ## About
 This website contains the course notes for COS 324 - Introduction to Machine Learning at Princeton University. The notes were prepared by professors Sanjeev Arora, Danqi Chen and undergraduates Simon Park, and Dennis Jacob.
 
+If you have any comments and feedback, please submit them [here](https://bit.ly/cos324-feedback)
+
 ## Full Version
 [Introduction to Machine Learning](files/COS324_Course_Notes.pdf){:target="_blank"}
 
