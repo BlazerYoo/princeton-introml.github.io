@@ -17,8 +17,8 @@ title: COS 324 Notes
 tagline: COS 324 - Introduction to Machine Learning
 description: Princeton University, Fall 2022
 author: Simon Park
-baseurl: "/COS324" # the subpath of your site, e.g. /blog
-url: "https://parksimon0808.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://princeton-introml.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings

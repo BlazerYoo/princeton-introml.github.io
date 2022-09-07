@@ -2,73 +2,73 @@
     "doc": "Home",
     "title": "COS 324 - Introduction to Machine Learning",
     "content": "Princeton University, Fall 2022 . ",
-    "url": "/COS324/index.html#cos-324---introduction-to-machine-learning",
+    "url": "/index.html#cos-324---introduction-to-machine-learning",
     "relUrl": "/index.html#cos-324---introduction-to-machine-learning"
   },"1": {
     "doc": "Home",
     "title": "About",
     "content": "This website contains the course notes for COS 324 - Introduction to Machine Learning at Princeton University. The notes were prepared by professors Sanjeev Arora, Danqi Chen and undergraduates Simon Park, and Dennis Jacob. ",
-    "url": "/COS324/index.html#about",
+    "url": "/index.html#about",
     "relUrl": "/index.html#about"
   },"2": {
     "doc": "Home",
     "title": "Full Version",
     "content": "Introduction to Machine Learning . ",
-    "url": "/COS324/index.html#full-version",
+    "url": "/index.html#full-version",
     "relUrl": "/index.html#full-version"
   },"3": {
     "doc": "Home",
     "title": "Individual Chapters",
     "content": " ",
-    "url": "/COS324/index.html#individual-chapters",
+    "url": "/index.html#individual-chapters",
     "relUrl": "/index.html#individual-chapters"
   },"4": {
     "doc": "Home",
     "title": "Supervised Learning",
     "content": "Ch 1 Linear Regression: An Introduction Ch 2 Statistical Learning: What It Means to Learn Ch 3 Optimization via Gradient Descent Ch 4 Linear Classification Ch 5 Exploring “Data Science” via Linear Regression ",
-    "url": "/COS324/index.html#supervised-learning",
+    "url": "/index.html#supervised-learning",
     "relUrl": "/index.html#supervised-learning"
   },"5": {
     "doc": "Home",
     "title": "Unsupervised Learning",
     "content": "Ch 6 Clustering Ch 7 Low-Dimensional Representation Ch 8 n-Gram Language Models Ch 9 Matrix Factorization and Recommender Systems ",
-    "url": "/COS324/index.html#unsupervised-learning",
+    "url": "/index.html#unsupervised-learning",
     "relUrl": "/index.html#unsupervised-learning"
   },"6": {
     "doc": "Home",
     "title": "Deep Learning",
     "content": "Ch 10 Introduction to Deep Learning Ch 11 Feedforward Neural Network and Backpropagation Ch 12 Convolutional Neural Network ",
-    "url": "/COS324/index.html#deep-learning",
+    "url": "/index.html#deep-learning",
     "relUrl": "/index.html#deep-learning"
   },"7": {
     "doc": "Home",
     "title": "Reinforcement Learning",
     "content": "Ch 13 Introduction to Reinforcement Learning Ch 14 Markov Decision Process Ch 15 Reinforcement Learning in Unknown Environment ",
-    "url": "/COS324/index.html#reinforcement-learning",
+    "url": "/index.html#reinforcement-learning",
     "relUrl": "/index.html#reinforcement-learning"
   },"8": {
     "doc": "Home",
     "title": "Advanced Topics",
     "content": "Ch 16 Machine Learning and Ethics Ch 17 Deep Learning for Natural Language Processing ",
-    "url": "/COS324/index.html#advanced-topics",
+    "url": "/index.html#advanced-topics",
     "relUrl": "/index.html#advanced-topics"
   },"9": {
     "doc": "Home",
     "title": "Mathematics for Machine Learning",
     "content": "Ch 18 Probability and Statistics Ch 19 Calculus Ch 20 Linear Algebra This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic License . ",
-    "url": "/COS324/index.html#mathematics-for-machine-learning",
+    "url": "/index.html#mathematics-for-machine-learning",
     "relUrl": "/index.html#mathematics-for-machine-learning"
   },"10": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
-    "url": "/COS324/index.html",
+    "url": "/index.html",
     "relUrl": "/index.html"
   },"11": {
     "doc": "Authors",
     "title": "Authors",
     "content": "Danqi Chen . danqic 'at' cs 'dot' princeton 'dot' edu . Dennis Jacob . djacob 'at' princeton 'dot' edu . Sanjeev Arora . arora 'at' cs 'dot' princeton 'dot' edu . Simon Park . juhyunp 'at' princeton 'dot' edu . ",
-    "url": "/COS324/authors/",
+    "url": "/authors/",
     "relUrl": "/authors/"
   }
 }
