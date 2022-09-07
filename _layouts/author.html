@@ -1,0 +1,15 @@
+<div class="author">
+  <div>
+    <h3 class="author-name">
+      {% if page.website %}
+      <a href="{{ page.website }}">{{ page.name }}</a>
+      {% else %}
+      {{ page.name }}
+      {% endif %}
+    </h3>
+    {% if page.email %}
+    <p>{{ page.email }}</p>
+    {% endif %}
+    {{ content }}
+  </div>
+</div>
