@@ -8,7 +8,7 @@ This repository hosts the Github Pages website for distributing course notes for
 3. If the number of chapters or parts in the notes have changed, update the corresponding data in the `pdf_split.py` file.
     - Line 2: `NUM_CHAPTERS` should equal to the current number of chapters
     - Line 3: `PART_MARKERS` should equal to the list of all Roman numerals for the parts of the notes
-4. Run `python3 pdf_split.py` to automatically generate the pdf files for individual chapters. (You will have to install `pip PyPDF2` if you have not already.)
+4. Run `python3 pdf_split.py` to automatically generate the pdf files for individual chapters. (You will have to install `pip install PyPDF2` if you have not already.)
 5. Double check that the generated pdf files for individual chapters are correct. Some things to check for are:
     - First page of each file is indeed the first page of each chapter
     - Last page of each file is indeed the last page of each chapter (or a blank page)
