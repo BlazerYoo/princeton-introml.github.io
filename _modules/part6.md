@@ -1,5 +1,6 @@
 ---
-title: Mathematics for Machine Learning
+title: 6. Mathematics for Machine Learning
+link: part6.pdf
 ---
 
 Ch 18

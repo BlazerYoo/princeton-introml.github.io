@@ -1,5 +1,6 @@
 ---
-title: Reinforcement Learning
+title: 4. Reinforcement Learning
+link: part4.pdf
 ---
 
 Ch 13

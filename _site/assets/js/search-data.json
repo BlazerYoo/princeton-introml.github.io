@@ -30,40 +30,40 @@
     "relUrl": "/index.html#individual-chapters"
   },"5": {
     "doc": "Home",
-    "title": "Supervised Learning",
+    "title": "\n  \n   1. Supervised Learning \n  \n",
     "content": "Ch 1 Linear Regression: An Introduction Ch 2 Statistical Learning: What It Means to Learn Ch 3 Optimization via Gradient Descent Ch 4 Linear Classification Ch 5 Exploring “Data Science” via Linear Regression ",
-    "url": "/index.html#supervised-learning",
-    "relUrl": "/index.html#supervised-learning"
+    "url": "/index.html#1-supervised-learning",
+    "relUrl": "/index.html#1-supervised-learning"
   },"6": {
     "doc": "Home",
-    "title": "Unsupervised Learning",
+    "title": "\n  \n   2. Unsupervised Learning \n  \n",
     "content": "Ch 6 Clustering Ch 7 Low-Dimensional Representation Ch 8 n-Gram Language Models Ch 9 Matrix Factorization and Recommender Systems ",
-    "url": "/index.html#unsupervised-learning",
-    "relUrl": "/index.html#unsupervised-learning"
+    "url": "/index.html#2-unsupervised-learning",
+    "relUrl": "/index.html#2-unsupervised-learning"
   },"7": {
     "doc": "Home",
-    "title": "Deep Learning",
+    "title": "\n  \n   3. Deep Learning \n  \n",
     "content": "Ch 10 Introduction to Deep Learning Ch 11 Feedforward Neural Network and Backpropagation Ch 12 Convolutional Neural Network ",
-    "url": "/index.html#deep-learning",
-    "relUrl": "/index.html#deep-learning"
+    "url": "/index.html#3-deep-learning",
+    "relUrl": "/index.html#3-deep-learning"
   },"8": {
     "doc": "Home",
-    "title": "Reinforcement Learning",
+    "title": "\n  \n   4. Reinforcement Learning \n  \n",
     "content": "Ch 13 Introduction to Reinforcement Learning Ch 14 Markov Decision Process Ch 15 Reinforcement Learning in Unknown Environment ",
-    "url": "/index.html#reinforcement-learning",
-    "relUrl": "/index.html#reinforcement-learning"
+    "url": "/index.html#4-reinforcement-learning",
+    "relUrl": "/index.html#4-reinforcement-learning"
   },"9": {
     "doc": "Home",
-    "title": "Advanced Topics",
+    "title": "\n  \n   5. Advanced Topics \n  \n",
     "content": "Ch 16 Machine Learning and Ethics Ch 17 Deep Learning for Natural Language Processing ",
-    "url": "/index.html#advanced-topics",
-    "relUrl": "/index.html#advanced-topics"
+    "url": "/index.html#5-advanced-topics",
+    "relUrl": "/index.html#5-advanced-topics"
   },"10": {
     "doc": "Home",
-    "title": "Mathematics for Machine Learning",
+    "title": "\n  \n   6. Mathematics for Machine Learning \n  \n",
     "content": "Ch 18 Probability and Statistics Ch 19 Calculus Ch 20 Linear Algebra This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic License . ",
-    "url": "/index.html#mathematics-for-machine-learning",
-    "relUrl": "/index.html#mathematics-for-machine-learning"
+    "url": "/index.html#6-mathematics-for-machine-learning",
+    "relUrl": "/index.html#6-mathematics-for-machine-learning"
   },"11": {
     "doc": "Home",
     "title": "Home",

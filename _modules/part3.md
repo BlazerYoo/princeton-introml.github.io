@@ -1,5 +1,6 @@
 ---
-title: Deep Learning
+title: 3. Deep Learning
+link: part3.pdf
 ---
 
 Ch 10

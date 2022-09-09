@@ -1,5 +1,6 @@
 ---
-title: Unsupervised Learning
+title: 2. Unsupervised Learning
+link: part2.pdf
 ---
 
 Ch 6

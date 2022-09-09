@@ -1,5 +1,6 @@
 ---
-title: Supervised Learning
+title: 1. Supervised Learning
+link: part1.pdf
 ---
 
 Ch 1

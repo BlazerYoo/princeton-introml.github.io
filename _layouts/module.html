@@ -1,4 +1,10 @@
-<h2 class="fs-4" id="{{ page.title | slugify }}" >{{ page.title }}</h2>
+<h2 class="fs-4" id="{{ page.title | slugify }}" >
+  {% if page.link %}
+  <a href="{{ page.link | prepend: '/files/' | prepend: site.baseurl }}" target="_blank"> {{ page.title }} </a>
+  {% else %}
+  {{ page.title }}
+  {% endif %}
+</h2>
 <div class="module">
   {{ content }}
 </div>
