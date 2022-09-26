@@ -19,6 +19,9 @@ This website contains the course notes for COS 324 - Introduction to Machine Lea
 
 If you find any typos or mistakes, or have any comments or feedback, please submit them [here](https://bit.ly/cos324-notes-feedback). It will be helpful if you specify the version of the notes. The last modified date can be found on the copyright page.
 
+## Errata
+The currently maintained version of the errata can be found [here](files/errata.pdf){:targe="_blank"}.
+
 ## Full Version
 [Introduction to Machine Learning](files/COS324_Course_Notes.pdf){:target="_blank"}
 
